@@ -85,7 +85,8 @@ For Question 3:
 - The response explains why these challenges would be of concern for a student loan recommendation system. (6 points)
 
 ## Data
-This project uses synthetic data mimicking real-world scenarios involving student financial profiles and loan details. 
+This project uses synthetic data mimicking real-world scenarios involving student financial profiles and loan details. The data can be retrieved at:
+ "https://static.bc-edx.com/ai/ail-v-1-0/m18/lms/datasets/student-loans.csv"
 
 ## Contributing
 This project benefits from the contributions of:
