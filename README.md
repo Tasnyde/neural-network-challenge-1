@@ -85,9 +85,9 @@ For Question 3:
 - The response explains why these challenges would be of concern for a student loan recommendation system. (6 points)
 
 ## Data
-This project uses synthetic data mimicking real-world scenarios involving student financial profiles and loan details. Ensure you have the following datasets available in the data folder:
-students.csv: Contains student financial profiles.
-loans.csv: Contains details about various loan options.
+This project uses synthetic data mimicking real-world scenarios involving student financial profiles and loan details. The data can be retrieved at:
+ "https://static.bc-edx.com/ai/ail-v-1-0/m18/lms/datasets/student-loans.csv"
+
 ## Contributing
 This project benefits from the contributions of:
 - edX Boot Camps LLC - Educational partner providing guidance and resources.
